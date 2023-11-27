@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Contact-react/static/css/main.d3320335.css",
+    "main.js": "/Contact-react/static/js/main.c757beba.js",
+    "static/js/787.d6c588c1.chunk.js": "/Contact-react/static/js/787.d6c588c1.chunk.js",
+    "static/media/logo.svg": "/Contact-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Contact-react/index.html",
+    "main.d3320335.css.map": "/Contact-react/static/css/main.d3320335.css.map",
+    "main.c757beba.js.map": "/Contact-react/static/js/main.c757beba.js.map",
+    "787.d6c588c1.chunk.js.map": "/Contact-react/static/js/787.d6c588c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3320335.css",
+    "static/js/main.c757beba.js"
+  ]
+}
